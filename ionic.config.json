@@ -1,0 +1,8 @@
+{
+  "name": "prostate-volume-and-density",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2720a1df"
+}
